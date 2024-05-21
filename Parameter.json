@@ -1,0 +1,36 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+      "Enter the Storage name": {
+        "value": "storagena543"
+      },
+      "Enter the name of PublicIP": {
+        "value": "p98878776656588"
+      },
+      "Enter the name nsg ": {
+        "value": "nsgna78"
+      },
+      "Enter the name of VirtualNetwork": {
+        "value": "irtualnetwork09876543"
+      },
+      "Enter the name of Subnets": {
+        "value": "ubnets78899"
+      },
+      "Enter the name NetworkInterface": {
+        "value": "terface8976"
+      },
+      "Enter the name of ipConfig": {
+        "value": "onfig876"
+      },
+      "Enter the name of the virtualMachines": {
+        "value": "achines9877"
+      },
+      "Enter the name osProfile": {
+        "value": "rofile98765"
+      },
+      "Enter the name of osDisk": {
+        "value": "isk8923"
+      }
+    }
+  }
